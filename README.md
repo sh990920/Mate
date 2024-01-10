@@ -57,7 +57,7 @@
 ## 환경설정
 ### 운영체제
 - MacOS
-- Mindows
+- Windows
   
 ### 사용 언어
 - Java
